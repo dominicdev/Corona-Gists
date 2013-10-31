@@ -11,3 +11,4 @@ end
 
 textField.font = native.newFont( "Helvetica" ) -- You can change this to any font you like.
 textField.size = fontSize  -- Set the new font
+
